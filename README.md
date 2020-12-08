@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+![Flutter Vikings Animation gif](https://github.com/MrUnfunny/FlutterVikings/gif/vikings-animation.gif)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
