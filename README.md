@@ -2,7 +2,7 @@
 
 Flutter Vikings Logo animation created using CustomPainter and stagerred animations for flutter Vikings logo contest.
 
-![Flutter Vikings Animation gif](https://github.com/MrUnfunny/FlutterVikings/blob/main/gif/vikings-animation.gif)
+<img src = "https://github.com/MrUnfunny/FlutterVikings/blob/main/gif/vikings-animation.gif" width="270" height="540" alt="Flutter Vikings logo animation"/>
 
 ## Getting Started
 
