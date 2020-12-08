@@ -1,8 +1,8 @@
 # VikingsLogo
 
-A new Flutter project.
+Flutter Vikings Logo animation created using CustomPainter and stagerred animations for flutter Vikings logo contest.
 
-![Flutter Vikings Animation gif](https://github.com/MrUnfunny/FlutterVikings/gif/vikings-animation.gif)
+![Flutter Vikings Animation gif](https://github.com/MrUnfunny/FlutterVikings/blob/main/gif/vikings-animation.gif)
 
 ## Getting Started
 
